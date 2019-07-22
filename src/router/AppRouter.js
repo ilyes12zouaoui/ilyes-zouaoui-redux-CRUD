@@ -18,7 +18,7 @@ import {
 class AppRouter extends Component {
   render() {
     return (
-      <BrowserRouter>
+      <>
         {/* <Header /> */}
         <div style={{ marginBottom: "20px" }}>
           <NavLink to="/" exact activeClassName="active-link">
@@ -52,7 +52,7 @@ class AppRouter extends Component {
 
           <Route component={PageNotFound} />
         </Switch>
-      </BrowserRouter>
+      </>
     );
   }
 }
