@@ -1,5 +1,5 @@
 {
-  "name": "react-router-redux-formik-form-crud",
+  "name": "react-router-redux-crud",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -35,5 +35,5 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://ilyes12zouaoui.github.io/ilyes-zouaoui-redux-CRUD-bootstrap"
+  "homepage": "https://ilyes12zouaoui.github.io/ilyes-zouaoui-redux-CRUD"
 }
